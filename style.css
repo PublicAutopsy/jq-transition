@@ -30,13 +30,13 @@ body {
   float: left; }
 
 #page1, #btn1 {
-  background: #0f0; }
+  background: #f44e24; }
 
 #page2, #btn2 {
-  background: #0ff; }
+  background: #81b900; }
 
 #page3, #btn3 {
-  background: #ff0; }
+  background: #01a4ef; }
 
 #page4, #btn4 {
-  background: #f00; }
+  background: #ffb902; }
